@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PSKAVYA42
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning C++(dsa)
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning C++(dsa) 
 - 📫 reach me through @PSKAVYA42
 - 😄 she\her
 - ⚡github is a platform which gave lots of students and developers sharing codes and developing together to build wonderful network of technology 
